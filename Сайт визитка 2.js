@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -163,7 +164,6 @@
     <h2>Личные качества</h2>
     <button class="button" id="showQualitiesBtn">Показать личные качества</button>
     <ul id="qualitiesList" style="display: none;">
-      <li>Целеустремленный</li>
       <li>Пунктуальный</li>
       <li>Комуникабельный</li>
       <li>Инициативный</li>
